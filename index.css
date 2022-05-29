@@ -1,0 +1,33 @@
+*{margin: 0%;
+padding: 0%;}
+
+.koff {
+    background-color: black;
+    color: white;
+    height: 5vh;
+    padding: 1%;
+    text-indent: 55px;
+    
+}
+.coff {background-image: url(1653799454577.jpg);
+      height: calc(100vh - 5vh) ;
+      width: 90vw;
+      height: 70vh;
+      color: white; 
+      padding: 5%;
+      background-repeat: no-repeat;
+      background-size: 100%;
+      
+}
+
+.btn{
+    padding: .5%;
+    width: 15vw;
+    height: 5.5vh;
+    background-color: transparent;
+    border-color: rgb(249, 250, 250);
+    color: rgb(247, 250, 252);
+
+}
+
+
